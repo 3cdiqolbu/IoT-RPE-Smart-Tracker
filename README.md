@@ -39,4 +39,4 @@ Bertugas sebagai pengumpul data biologis di lapangan.
 3. **Infrastruktur Terukur:** Skema pengiriman data HTTP POST terpusat memungkinkan integrasi lanjutan data sensor ini ke dalam ekosistem aplikasi analitik *mobile* pihak ketiga.
 
 ## 📷 Dokumentasi Visual & Arsitektur
-![Poster Arsitektur RPE](Docs/Poster_RPE.jpg)
+![Poster Arsitektur RPE](SISTEM%20PENDETEKSI%20RPE%20TENAGA%20MANUSIA%20BERBASIS%20IoT%20-%20POSTER.jpg)
